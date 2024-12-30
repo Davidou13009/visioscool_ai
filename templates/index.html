@@ -6,9 +6,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz Mathématiques</title>
     <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="icon" href="/static/favicon.ico" type="image/x-icon">
 </head>
 <body>
     <h1>Quiz Mathématiques</h1>
+    <div id="quiz-form">
+        <label for="level">Niveau :</label>
+        <select id="level">
+            <option value="Seconde">Seconde</option>
+            <option value="Première Spé Maths">Première Spé Maths</option>
+            <option value="Terminale Spé Maths">Terminale Spé Maths</option>
+        </select>
+    
+        <label for="theme">Thème :</label>
+        <select id="theme">
+            <option value="Analyse">Analyse</option>
+            <option value="Calcul littéral">Calcul littéral</option>
+            <option value="Probabilités">Probabilités</option>
+            <option value="Statistiques">Statistiques</option>
+            <option value="Géométrie">Géométrie</option>
+        </select>
+    
+        <button id="startQuiz">Lancer le Quiz</button>
+    </div>
+    
     <div id="quiz-container"></div>
     <script src="/static/js/script.js"></script>
 </body>

@@ -1,0 +1,12 @@
+[
+    {
+        "question": "Quelle est l\u2019esp\u00e9rance de X si X suit une loi uniforme sur {1, 2, 3, 4, 5} ?",
+        "options": [
+            "3",
+            "3.5",
+            "4",
+            "2.5"
+        ],
+        "answer": "3"
+    }
+]
