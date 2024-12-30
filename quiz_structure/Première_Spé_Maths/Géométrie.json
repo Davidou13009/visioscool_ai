@@ -1,1 +1,32 @@
-[]
+[
+    {
+        "question": "Calculez la somme des angles d\u2019un triangle.",
+        "options": [
+            "90\u00b0",
+            "180\u00b0",
+            "270\u00b0",
+            "360\u00b0"
+        ],
+        "answer": "180\u00b0"
+    },
+    {
+        "question": "Combien d\u2019angles droits dans un carr\u00e9 ?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Quelle est la formule de l\u2019aire d\u2019un cercle ?",
+        "options": [
+            "\u03c0r\u00b2",
+            "2\u03c0r",
+            "\u03c0d\u00b2",
+            "\u03c0d"
+        ],
+        "answer": "\u03c0r\u00b2"
+    }
+]

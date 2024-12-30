@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "question": "Quels éléments caractérisent un vecteur ?",
+        "options": ["Sa direction, son sens et sa norme", "Son point de départ", "Sa longueur uniquement", "Sa position sur un axe"],
+        "answer": "Sa direction, son sens et sa norme"
+    },
+    {
+        "question": "Quel est le vecteur défini par les points A(1, 2) et B(4, 6) ?",
+        "options": ["(3, 4)", "(4, 8)", "(1, 2)", "(5, 4)"],
+        "answer": "(3, 4)"
+    },
+    {
+        "question": "Les vecteurs u(2, 4) et v(1, 2) sont-ils colinéaires ?",
+        "options": ["Oui", "Non", "Impossible à dire", "Ils sont orthogonaux"],
+        "answer": "Oui"
+    }
+]

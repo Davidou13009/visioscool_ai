@@ -18,5 +18,35 @@
             "8"
         ],
         "answer": "7"
+    },
+    {
+        "question": "Calculez 2 + 3.",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "R\u00e9solvez : 4x = 8.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Calculez 3\u00b2.",
+        "options": [
+            "6",
+            "9",
+            "12",
+            "15"
+        ],
+        "answer": "9"
     }
 ]
