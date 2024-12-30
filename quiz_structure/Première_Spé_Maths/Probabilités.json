@@ -1,32 +1,32 @@
 [
     {
-        "question": "Quelle est la probabilit\u00e9 d\u2019obtenir un 6 en lan\u00e7ant un d\u00e9 ?",
+        "question": "Dans un tirage de deux cartes dans un jeu de 52 cartes, quelle est la probabilit\u00e9 d'obtenir une carte rouge puis une carte noire ?",
         "options": [
-            "1/6",
-            "1/2",
-            "1/3",
-            "1/4"
+            "1/26",
+            "1/52",
+            "1/4",
+            "1/17"
         ],
-        "answer": "1/6"
+        "answer": "1/26"
     },
     {
-        "question": "Combien de r\u00e9sultats possibles dans un lancer de pi\u00e8ce ?",
+        "question": "Dans un tirage r\u00e9p\u00e9t\u00e9 de 1000 fois d\u2019un d\u00e9 \u00e9quilibr\u00e9, quelle est la probabilit\u00e9 approximative d\u2019obtenir un 6 au moins 200 fois ?",
         "options": [
-            "1",
-            "2",
-            "3",
-            "4"
+            "0.2",
+            "0.6",
+            "0.17",
+            "0.5"
         ],
-        "answer": "2"
+        "answer": "0.2"
     },
     {
-        "question": "Quelle est la probabilit\u00e9 d\u2019obtenir un nombre pair en lan\u00e7ant un d\u00e9 ?",
+        "question": "Dans un sac contenant 5 billes rouges et 7 billes bleues, une bille est tir\u00e9e au hasard. Apr\u00e8s cette action, la bille est remise dans le sac et une nouvelle bille est tir\u00e9e. Quelle est la probabilit\u00e9 d'obtenir une bille rouge au second tirage, sachant que la premi\u00e8re bille tir\u00e9e \u00e9tait bleue ?",
         "options": [
-            "1/2",
-            "1/3",
-            "2/3",
-            "1/6"
+            "5/12",
+            "5/7",
+            "7/12",
+            "1/2"
         ],
-        "answer": "1/2"
+        "answer": "5/12"
     }
 ]

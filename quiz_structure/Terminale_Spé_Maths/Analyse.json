@@ -1,32 +1,32 @@
 [
     {
-        "question": "Calculez 2 + 3.",
+        "question": "Calculez la d\u00e9riv\u00e9e de f(x) = x\u00b3 - 6x\u00b2 + 9x - 5.",
         "options": [
-            "4",
-            "5",
-            "6",
-            "7"
+            "3x\u00b2 - 12x + 9",
+            "3x\u00b2 - 12x + 5",
+            "3x\u00b2 - 5",
+            "6x\u00b2 - 9x + 5"
         ],
-        "answer": "5"
+        "answer": "3x\u00b2 - 12x + 9"
     },
     {
-        "question": "R\u00e9solvez : 4x = 8.",
+        "question": "Calculez la limite de f(x) = (x\u00b2 - 1)/(x - 1) lorsque x tend vers 1.",
         "options": [
             "1",
             "2",
-            "3",
-            "4"
+            "0",
+            "\u221e"
         ],
         "answer": "2"
     },
     {
-        "question": "Calculez 3\u00b2.",
+        "question": "Calculez l'int\u00e9grale de f(x) = 4x\u00b2 dx.",
         "options": [
-            "6",
-            "9",
-            "12",
-            "15"
+            "x\u00b3 + C",
+            "2x\u00b3 + C",
+            "4x\u00b3 + C",
+            "x\u00b2 + C"
         ],
-        "answer": "9"
+        "answer": "4x\u00b3 + C"
     }
 ]

@@ -1,42 +1,32 @@
 [
     {
-        "question": "Calculez la d\u00e9riv\u00e9e de f(x) = x\u00b2 + 3x.",
+        "question": "Calculez la d\u00e9riv\u00e9e de f(x) = 4x\u00b3 - 2x\u00b2 + 5x - 3.",
         "options": [
-            "2x + 3",
-            "x + 3",
-            "2x",
-            "3x"
+            "12x\u00b2 - 4x + 5",
+            "12x\u00b2 - 4x + 3",
+            "12x\u00b2 + 4x - 3",
+            "12x\u00b2 - 2x + 5"
         ],
-        "answer": "2x + 3"
+        "answer": "12x\u00b2 - 4x + 5"
     },
     {
-        "question": "Calculez 2 + 3.",
+        "question": "La vitesse d\u2019un objet est donn\u00e9e par v(t) = 3t\u00b2 - 4t + 2. Quelle est l'acc\u00e9l\u00e9ration \u00e0 t = 2 ?",
         "options": [
             "4",
-            "5",
             "6",
-            "7"
+            "7",
+            "8"
         ],
-        "answer": "5"
+        "answer": "6"
     },
     {
-        "question": "R\u00e9solvez : 4x = 8.",
+        "question": "Une fonction affine f(x) = ax + b passe par les points (1, 3) et (4, 8). D\u00e9terminez la valeur de a.",
         "options": [
-            "1",
             "2",
-            "3",
-            "4"
+            "5/3",
+            "1",
+            "3/2"
         ],
-        "answer": "2"
-    },
-    {
-        "question": "Calculez 3\u00b2.",
-        "options": [
-            "6",
-            "9",
-            "12",
-            "15"
-        ],
-        "answer": "9"
+        "answer": "5/3"
     }
 ]

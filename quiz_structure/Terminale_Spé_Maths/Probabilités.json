@@ -1,42 +1,32 @@
 [
     {
-        "question": "Quelle est l\u2019esp\u00e9rance de X si X suit une loi uniforme sur {1, 2, 3, 4, 5} ?",
+        "question": "Dans une urne contenant 4 billes rouges et 6 billes bleues, une bille est tir\u00e9e. Puis, la bille est remise dans l'urne. Quelle est la probabilit\u00e9 de tirer une bille rouge puis une bille bleue ?",
         "options": [
-            "3",
-            "3.5",
-            "4",
-            "2.5"
+            "2/5",
+            "4/25",
+            "1/5",
+            "2/5"
         ],
-        "answer": "3"
+        "answer": "4/25"
     },
     {
-        "question": "Quelle est la probabilit\u00e9 d\u2019obtenir un 6 en lan\u00e7ant un d\u00e9 ?",
+        "question": "Dans un \u00e9chantillon de taille n = 1000, la moyenne observ\u00e9e est 50 et l'\u00e9cart-type est 10. Quelle est la probabilit\u00e9 d'obtenir une valeur entre 45 et 55 ?",
         "options": [
-            "1/6",
-            "1/2",
-            "1/3",
-            "1/4"
+            "0.6826",
+            "0.50",
+            "0.68",
+            "0.68"
         ],
-        "answer": "1/6"
+        "answer": "0.6826"
     },
     {
-        "question": "Combien de r\u00e9sultats possibles dans un lancer de pi\u00e8ce ?",
+        "question": "On tire un \u00e9chantillon de taille 30. Quelle est l'estimation de la moyenne ?",
         "options": [
-            "1",
-            "2",
-            "3",
-            "4"
+            "30",
+            "15",
+            "20",
+            "25"
         ],
-        "answer": "2"
-    },
-    {
-        "question": "Quelle est la probabilit\u00e9 d\u2019obtenir un nombre pair en lan\u00e7ant un d\u00e9 ?",
-        "options": [
-            "1/2",
-            "1/3",
-            "2/3",
-            "1/6"
-        ],
-        "answer": "1/2"
+        "answer": "15"
     }
 ]
